@@ -1,6 +1,6 @@
 {
   "name": "@mariusc23/micro-schema",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Microservice schema validation middleware.",
   "main": "index.js",
   "files": [
