@@ -27,12 +27,12 @@
   "homepage": "https://github.com/mariusc23/micro-schema#readme",
   "peerDependencies": {
     "joi": "^10.4.1",
-    "micro": "^7.3.0"
+    "micro": "^8.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
     "joi": "^10.4.1",
-    "micro": "^7.3.0",
+    "micro": "^8.0.0",
     "mocha": "^3.2.0"
   }
 }
